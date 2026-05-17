@@ -1,5 +1,7 @@
 # 🧰 Productivity Toolkit
 
+> 🌐 **Live demo:** [productivity-toolkit-sooty.vercel.app](https://productivity-toolkit-sooty.vercel.app)
+
 Eight handy, free, no-signup web tools in one fast site. Built with **Next.js 14 (App Router)** + **Tailwind CSS**. Deploys to Vercel in one click.
 
 ## ✨ Tools included
